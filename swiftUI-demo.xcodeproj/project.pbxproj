@@ -15,6 +15,7 @@
 		1F29D827241084830086C913 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1F29D825241084830086C913 /* LaunchScreen.storyboard */; };
 		1F29D832241084830086C913 /* swiftUI_demoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F29D831241084830086C913 /* swiftUI_demoTests.swift */; };
 		1F29D83D241084830086C913 /* swiftUI_demoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F29D83C241084830086C913 /* swiftUI_demoUITests.swift */; };
+		1FDDAD1224111D9E00A3C712 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FDDAD1124111D9E00A3C712 /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1F29D838241084830086C913 /* swiftUI-demoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "swiftUI-demoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F29D83C241084830086C913 /* swiftUI_demoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = swiftUI_demoUITests.swift; sourceTree = "<group>"; };
 		1F29D83E241084830086C913 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1FDDAD1124111D9E00A3C712 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				1F29D81A241084820086C913 /* AppDelegate.swift */,
 				1F29D81C241084820086C913 /* SceneDelegate.swift */,
+				1FDDAD1124111D9E00A3C712 /* Home.swift */,
 				1F29D81E241084820086C913 /* ContentView.swift */,
 				1F29D820241084830086C913 /* Assets.xcassets */,
 				1F29D825241084830086C913 /* LaunchScreen.storyboard */,
@@ -269,6 +272,7 @@
 			files = (
 				1F29D81B241084820086C913 /* AppDelegate.swift in Sources */,
 				1F29D81D241084820086C913 /* SceneDelegate.swift in Sources */,
+				1FDDAD1224111D9E00A3C712 /* Home.swift in Sources */,
 				1F29D81F241084820086C913 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
